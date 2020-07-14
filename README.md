@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-
+### 2020 goal
+I want to make a Project graduated this year.
 
 ### Get in touch
 * Linkedin: Chatuphat Laosomboon
