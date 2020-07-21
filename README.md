@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### About Me
+I like to learn new things and is always self-development 
+* business
+* data science
 ### 2020 goal
 I want to make a Project graduated this year.
 
