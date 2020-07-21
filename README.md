@@ -2,8 +2,12 @@
 
 ### About Me
 I like to learn new things and is always self-development 
-* business
-* data science
+#### About
+* Business
+* Data science
+* Web Developer
+* Android Developer
+
 ### 2020 goal
 I want to make a Project graduated this year.
 
