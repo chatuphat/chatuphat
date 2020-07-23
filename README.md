@@ -7,6 +7,10 @@ I like to learn new things and is always self-development
 * Data science
 * Web Developer
 * Android Developer
+* Machine learning
+* Cyber Security
+* Finance
+
 
 ### 2020 goal
 I want to make a Project graduated this year.
