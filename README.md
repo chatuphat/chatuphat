@@ -2,7 +2,7 @@
 
 ### About Me
 I like to learn new things and is always self-development 
-#### About likes
+#### Interestss
 * Business
 * Data science
 * Web Developer
