@@ -11,6 +11,7 @@ I like to learn new things and is always self-development
 * Cyber Security
 * Finance
 * UX/UI design
+* Internet of Things (IoT)
 
 
 ### 2020 goal
