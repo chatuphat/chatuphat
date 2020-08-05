@@ -13,6 +13,7 @@ I like to learn new things and is always self-development
 * UX/UI design
 * Internet of Things (IoT)
 * Tester 
+* Cloud computing
 
 #### Software Tools
 * Gitbook
