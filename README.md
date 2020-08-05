@@ -12,6 +12,7 @@ I like to learn new things and is always self-development
 * Finance
 * UX/UI design
 * Internet of Things (IoT)
+* Tester 
 
 
 ### 2020 goal
