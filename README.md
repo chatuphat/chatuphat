@@ -14,13 +14,9 @@ I like to learn new things and is always self-development
 * Internet of Things (IoT)
 * Tester 
 * Cloud computing
-
-#### Software Tools
-* Gitbook
-* GitLab
-* Google Meet
-* Discord
-
+### Introduce my project
+IOT
+> https://github.com/chatuphat/Arduino-Blinker
 
 ### 2020 goal
 I want to make a Project graduated this year.
