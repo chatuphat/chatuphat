@@ -2,20 +2,9 @@
 
 ### About Me
 I like to learn new things and is always self-development 
-#### Interestss
-* Business
-* Data science
-* Web Developer
-* Android Developer
-* Machine learning
-* Cyber Security
-* Finance
-* UX/UI design
-* Internet of Things (IoT)
-* Tester 
-* Cloud computing
+
 ### Introduce my project
-IOT
+* Internet of Things (IoT)
 > https://github.com/chatuphat/Arduino-Blinker
 
 ### 2020 goal
