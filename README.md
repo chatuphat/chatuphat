@@ -19,7 +19,7 @@ I like to learn new things and is always self-development
 * Gitbook
 * GitLab
 * Google Meet
-
+* Discord
 
 
 ### 2020 goal
