@@ -17,7 +17,7 @@ I like to learn new things and is always self-development
 * Shell Script
 > https://github.com/chatuphat/Shell-Script
 * JAVA For Android 
-> https://github.com/chatuphat/Android-java
+> https://github.com/chatuphat/Android-CountNumbers
 
 ### 2020 goal
 I want to make a Project graduated this year.
