@@ -18,15 +18,14 @@ I like to learn new things and is always self-development
 > https://github.com/chatuphat/Shell-Script
 * JAVA For Android 
 > https://github.com/chatuphat/Android-CountNumbers
-* Algorithm
->https://leetcode.com/chatuphal/
+
 
 ### 2020 goal
 I want to make a Project graduated this year.
 
 ### Get in touch
 * Linkedin: Chatuphat Laosomboon
-
+* LeetCode : https://leetcode.com/chatuphal/
 <!--
 **chatuphat/chatuphat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
