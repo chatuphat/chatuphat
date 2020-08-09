@@ -21,7 +21,7 @@ I like to learn new things and is always self-development
 ### Tool
 * AWS
 ### 2020 goal
-I want to make a Project graduated this year.
+Learn Django The Web Framework
 
 ### Get in touch
 * Linkedin: Chatuphat Laosomboon
