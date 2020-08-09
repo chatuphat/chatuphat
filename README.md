@@ -2,7 +2,7 @@
 
 ### About Me
 I like to learn new things and is always self-development 
-### EXPERIENCE
+### Experience
 
 ### Certification Exams
 * Cloud Essentials by CompTIA
