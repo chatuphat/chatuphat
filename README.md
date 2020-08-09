@@ -4,6 +4,7 @@
 I like to learn new things and is always self-development 
 ### Certification Exams
 * Cloud Essentials by CompTIA
+### Transcript of Grades
 
 ### Introduce my project
 * Internet of Things (IoT)
