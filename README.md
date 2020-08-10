@@ -3,9 +3,7 @@
 ### About Me
 I like to learn new things and is always self-development 
 ### Experience
-* Teach Assistant at Burapha University 
-  Responsibility
-  teach Databases 
+* Teach Assistant at Burapha University - responsible for work (teach Databases)
   
 ### Certification Exams
 * Cloud Essentials by CompTIA
