@@ -6,6 +6,7 @@ I like to learn new things and is always self-development
 
 ### Certification Exams
 * Cloud Essentials by CompTIA
+* NSE1 Network Security Associate by Fortinet
 ### Transcript of Grades
 
 ### Introduce my project
@@ -23,7 +24,7 @@ I like to learn new things and is always self-development
 > https://github.com/chatuphat/Shell-Script
 * JAVA For Android 
 > https://github.com/chatuphat/Android-CountNumbers
-### Tool
+### Software Tools
 * AWS
 ### 2020 goal
 Learn Django The Web Framework
