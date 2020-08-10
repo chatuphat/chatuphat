@@ -3,7 +3,10 @@
 ### About Me
 I like to learn new things and is always self-development 
 ### Experience
-
+* Teach Assistant at Burapha University 
+  Responsibility
+  teach Databases 
+  
 ### Certification Exams
 * Cloud Essentials by CompTIA
 * NSE1 Network Security Associate by Fortinet
