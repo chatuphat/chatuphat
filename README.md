@@ -9,7 +9,7 @@ I like to learn new things and is always self-development
 * Cloud Essentials by CompTIA
 * NSE1 Network Security Associate by Fortinet
 ### Transcript of Grades
-Web-based Application Development Grade B by Burapha University
+* Web-based Application Development Grade B by Burapha University
 ### Introduce my project
 * Internet of Things (IoT)
 > https://github.com/chatuphat/Arduino-Blinker
