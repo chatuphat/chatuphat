@@ -13,8 +13,6 @@ I like to learn new things and is always self-development
 ### Introduce my project
 * Internet of Things (IoT)
 > https://github.com/chatuphat/Arduino-Blinker
-* Data science
-> https://github.com/chatuphat/NYC-and-Tokyo-Check-in-Dataset
 * Ansible
 > https://github.com/chatuphat/Ansible
 * Docker
