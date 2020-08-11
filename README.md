@@ -9,7 +9,7 @@ I like to learn new things and is always self-development
 * Cloud Essentials by CompTIA
 * NSE1 Network Security Associate by Fortinet
 ### Transcript of Grades
-
+Web-based Application Development Grade B by Burapha University
 ### Introduce my project
 * Internet of Things (IoT)
 > https://github.com/chatuphat/Arduino-Blinker
@@ -24,7 +24,8 @@ I like to learn new things and is always self-development
 * JAVA For Android 
 > https://github.com/chatuphat/Android-CountNumbers
 ### Software Tools
-* AWS
+* AWS Cloud
+* Postman
 ### 2020 goal
 Learn Django The Web Framework
 
