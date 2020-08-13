@@ -28,7 +28,7 @@ I like to learn new things and is always self-development
 ### Software Tools
 * AWS Cloud
 * Gitbook
-* Selenium ide
+
 ### Software Testing Tools
 * Postman API
 * Selenium IDE
