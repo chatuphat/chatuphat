@@ -25,7 +25,7 @@ I like to learn new things and is always self-development
 > https://github.com/chatuphat/Android-CountNumbers
 ### Software Tools
 * AWS Cloud
-* Postman
+* Postman API
 * Gitbook
 ### 2020 goal
 Learn Django The Web Framework
