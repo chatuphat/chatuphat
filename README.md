@@ -31,8 +31,10 @@ I like to learn new things and is always self-development
 * Postman API
 * Selenium IDE
 
-### Online Courses
+### SQL Online Courses
 * SQL Fundamentals by Dataquest.io
+### CyberSecurity Online Courses
+* Thailand CyberSecurity for All 2020 by Cisco Networking Academy and King Mongkut's Institute of Technology Ladkrabang, Thailand
 ### 2020 goal
 Learn Django The Web Framework
 
