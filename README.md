@@ -30,6 +30,9 @@ I like to learn new things and is always self-development
 ### Software Testing Tools
 * Postman API
 * Selenium IDE
+
+### Online Courses
+* SQL Fundamentals by Dataquest.io
 ### 2020 goal
 Learn Django The Web Framework
 
