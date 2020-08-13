@@ -34,6 +34,7 @@ Learn Django The Web Framework
 * Linkedin: Chatuphat Laosomboon
 * LeetCode : https://leetcode.com/chatuphal/
 * Kaggle : https://www.kaggle.com/ambirth
+* Behance : https://www.behance.net/chatuphlaosomb
 <!--
 **chatuphat/chatuphat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
