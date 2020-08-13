@@ -23,6 +23,8 @@ I like to learn new things and is always self-development
 > https://github.com/chatuphat/Shell-Script
 * JAVA For Android 
 > https://github.com/chatuphat/Android-CountNumbers
+* Linux From Scratch
+> http://www.linuxfromscratch.org/
 ### Software Tools
 * AWS Cloud
 * Gitbook
