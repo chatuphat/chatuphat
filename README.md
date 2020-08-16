@@ -4,6 +4,7 @@
 I like to learn new things and is always self-development 
 ### Experience
 * Teach Assistant at Burapha University - responsible for work (teach Databases)
+* Teach Assistant at Burapha University - responsible for work (teach java Programming)
   
 ### Certification Exams
 * Cloud Essentials by CompTIA
