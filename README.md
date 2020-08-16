@@ -29,6 +29,7 @@ I like to learn new things and is always self-development
 ### Software Tools
 * AWS Cloud
 * Gitbook
+* Mysql Workbench
 
 ### Software Testing Tools
 * Postman API
