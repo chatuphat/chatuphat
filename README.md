@@ -12,6 +12,8 @@ I like to learn new things and is always self-development
 ### Transcript of Grades
 * Web-based Application Development Grade B by Burapha University
 ### Introduce my project
+* Data Analytics
+> https://github.com/chatuphat/Fitness
 * Internet of Things (IoT)
 > https://github.com/chatuphat/Arduino-Blinker
 * Ansible
