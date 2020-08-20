@@ -49,6 +49,7 @@ Learn Django The Web Framework
 * LeetCode : https://leetcode.com/chatuphal/
 * Kaggle : https://www.kaggle.com/ambirth
 * Behance : https://www.behance.net/chatuphlaosomb
+* ResumeUX : https://chatuphat.github.io/resumeUx.github.io/
 <!--
 **chatuphat/chatuphat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
