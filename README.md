@@ -33,6 +33,7 @@ I like to learn new things and is always self-development
 * AWS Cloud
 * Gitbook
 * Mysql Workbench
+* Docker
 ---
 ### Testing Skills
 * Unit test
