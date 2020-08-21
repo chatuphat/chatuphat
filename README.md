@@ -47,9 +47,10 @@ I like to learn new things and is always self-development
 ### Cybersecurity Skills
 * ISO 27002
 * OWASP Top 10
+---
 ### 2020 goal
 Learn Django The Web Framework
----
+
 ### Get in touch
 * Linkedin: Chatuphat Laosomboon
 * LeetCode : https://leetcode.com/chatuphal/
