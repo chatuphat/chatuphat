@@ -46,6 +46,7 @@ I like to learn new things and is always self-development
 ### Cybersecurity Tools
 * Nmap
 * Fail2Ban
+* CodeQL
 ### Cybersecurity Skills
 * ISO 27002
 * OWASP Top 10
