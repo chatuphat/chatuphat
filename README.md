@@ -32,22 +32,24 @@ I like to learn new things and is always self-development
 * AWS Cloud
 * Gitbook
 * Mysql Workbench
-
 ### Software Testing Tools
 * Postman API
 * Selenium IDE
-
+---
 ### SQL Online Courses
 * SQL Fundamentals by Dataquest.io
+---
 ### CyberSecurity Online Courses
 * Thailand CyberSecurity for All 2020 by Cisco Networking Academy and King Mongkut's Institute of Technology Ladkrabang, Thailand
-### Cybersecurity Skills
+### Cybersecurity Tools
 * Nmap
 * Fail2Ban
+### Cybersecurity Skills
 * ISO 27002
+* OWASP Top 10
 ### 2020 goal
 Learn Django The Web Framework
-
+---
 ### Get in touch
 * Linkedin: Chatuphat Laosomboon
 * LeetCode : https://leetcode.com/chatuphal/
