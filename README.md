@@ -41,6 +41,10 @@ I like to learn new things and is always self-development
 * SQL Fundamentals by Dataquest.io
 ### CyberSecurity Online Courses
 * Thailand CyberSecurity for All 2020 by Cisco Networking Academy and King Mongkut's Institute of Technology Ladkrabang, Thailand
+### Cybersecurity Skills
+* Nmap
+* Fail2Ban
+* ISO 27002
 ### 2020 goal
 Learn Django The Web Framework
 
