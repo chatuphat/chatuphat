@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Professional Summary
+* Has been the group leader 4 times
 ### About Me
 I like to learn new things and is always self-development 
 ### Experience
