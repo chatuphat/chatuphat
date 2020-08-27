@@ -7,6 +7,10 @@ I'm currently an enrolled student in Bachelor of Science (Information Technology
  * July 2020 - present                      
    * Position: Teach Assistant  by  Burapha University
    *  Task :  Teach students about databases  Docker, MySql , Command line
+ 
+ * January 2019 - February 2019       
+   * Position:  Teach Assistant  by  Burapha University
+   * Task :  Teach students about Java Programming , Logic
 
   
 ### Certification Exams
