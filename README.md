@@ -29,6 +29,18 @@ I like to learn new things and is always self-development
 * Linux From Scratch
 > http://www.linuxfromscratch.org/
 ---
+### Interest
+* Innovations
+* Branding
+* Marketing
+* Web Application Fullstack
+* Data Science
+* UX and UI design
+* Internet of Things (IoT)
+* Business
+* Cyber Security
+* Finance
+---
 ### Software Tools
 * AWS Cloud
 * Gitbook
