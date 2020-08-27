@@ -1,7 +1,8 @@
 ### Professional Summary
 * Has been the group leader 4 times
 ### About Me
-I like to learn new things and is always self-development 
+A self-taught programmer and data analyst. Love to explore and learn new things via various universities.
+I'm currently an enrolled student in Bachelor of Science (Information Technology) at Burapha University.
 ### Experience
 * Teach Assistant at Burapha University - responsible for work (teach Databases)
 * Teach Assistant at Burapha University - responsible for work (teach Java Programming)
