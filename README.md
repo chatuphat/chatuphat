@@ -4,8 +4,10 @@
 A self-taught programmer and data analyst. Love to explore and learn new things via various universities.
 I'm currently an enrolled student in Bachelor of Science (Information Technology) at Burapha University.
 ### Experience
-* Teach Assistant at Burapha University - responsible for work (teach Databases)
-* Teach Assistant at Burapha University - responsible for work (teach Java Programming)
+ * July 2020 - present                      
+   * Position: Teach Assistant  by  Burapha University
+   *  Task :  Teach students about databases  Docker, MySql , Command line
+
   
 ### Certification Exams
 * Cloud Essentials by CompTIA
