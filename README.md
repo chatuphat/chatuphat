@@ -41,6 +41,12 @@ I like to learn new things and is always self-development
 * Postman API
 * Selenium IDE
 ---
+### Operating Systems (User) 
+* CentOS 
+* Windows 10 
+* Mac os 
+* Ubuntu
+---
 ### SQL Online Courses
 * SQL Fundamentals by Dataquest.io
 ---
