@@ -1,4 +1,5 @@
 ### Professional Summary
+* I've been a project manager for more than 8 projects.
 
 ### About Me
 A self-taught programmer and data analyst. Love to explore and learn new things via various universities.
