@@ -20,8 +20,6 @@ I'm currently an enrolled student in Bachelor of Science (Information Technology
 ### Transcript of Grades
 * Web-based Application Development Grade B by Burapha University
 ### Introduce my project
-* Data Analytics
-> https://github.com/chatuphat/Fitness
 * Internet of Things (IoT)
 > https://github.com/chatuphat/Arduino-Blinker
 * Ansible
