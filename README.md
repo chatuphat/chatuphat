@@ -86,6 +86,9 @@ I'm currently an enrolled student in Bachelor of Science (Information Technology
 * ISO 27002
 * OWASP Top 10
 ---
+### Read a book
+* Learning Computer Programming Using Java with 101 Examples
+
 ### 2020 goal
 * Learn Django The Web Framework
 * Learn ECOLE 42 BANGKOK
