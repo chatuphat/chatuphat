@@ -87,7 +87,8 @@ I'm currently an enrolled student in Bachelor of Science (Information Technology
 * OWASP Top 10
 ---
 ### 2020 goal
-Learn Django The Web Framework
+* Learn Django The Web Framework
+* Learn ECOLE 42 BANGKOK
 
 ### Get in touch
 * Linkedin: Chatuphat Laosomboon
