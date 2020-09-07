@@ -49,6 +49,9 @@ I'm currently an enrolled student in Bachelor of Science (Information Technology
 ---
 ### Data Structures
 * Bubble Sort
+
+### Algorithms Programming
+* Big O
 ---
 
 ### Software Tools
