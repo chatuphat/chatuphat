@@ -52,6 +52,7 @@ I'm currently an enrolled student in Bachelor of Science (Information Technology
 
 ### Algorithms Programming
 * Big O
+* Time Complexity Analysis
 ---
 
 ### Software Tools
