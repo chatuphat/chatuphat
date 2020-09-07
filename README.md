@@ -47,6 +47,10 @@ I'm currently an enrolled student in Bachelor of Science (Information Technology
 * Cyber Security
 * Finance
 ---
+### Data Structures
+* Bubble Sort
+---
+
 ### Software Tools
 * AWS Cloud
 * Gitbook
