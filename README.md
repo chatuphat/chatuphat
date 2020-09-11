@@ -13,9 +13,11 @@ I'm currently an enrolled student in Bachelor of Science (Information Technology
    * Position:  Teach Assistant  by  Burapha University
    * Task :  Teach students about Java Programming , Logic
 
- ### 📝Certification Exams
+### 📝Certification Exams
 * Cloud Essentials by CompTIA
 * NSE1 Network Security Associate by Fortinet
+### 🌟Join A Project
+* Thailand CyberSecurity for All 2020 by Cisco Networking Academy and King Mongkut's Institute of Technology Ladkrabang, Thailand
 ### Transcript of Grades
 * Web-based Application Development Grade B by Burapha University
 ### :octocat: Introduce my project
@@ -75,8 +77,6 @@ I'm currently an enrolled student in Bachelor of Science (Information Technology
 ### SQL Online Courses
 * SQL Fundamentals by Dataquest.io
 ---
-### CyberSecurity Online Courses
-* Thailand CyberSecurity for All 2020 by Cisco Networking Academy and King Mongkut's Institute of Technology Ladkrabang, Thailand
 ### Cybersecurity Tools
 * Nmap
 * Fail2Ban
