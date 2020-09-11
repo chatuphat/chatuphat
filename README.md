@@ -48,8 +48,11 @@ I'm currently an enrolled student in Bachelor of Science (Information Technology
 * Cyber Security
 * Finance
 ---
-### Data Structures
-* Bubble Sort
+## 📌  Skill Summaries
+
+**Data Structures** </br>
+  * Bubble Sort
+</br></br>
 
 ### Algorithms Programming
 * Big O
