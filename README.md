@@ -35,7 +35,7 @@ I'm currently an enrolled student in Bachelor of Science (Information Technology
 > https://github.com/chatuphat/Android-CountNumbers
 * Linux From Scratch
 > http://www.linuxfromscratch.org/
----
+
 ### Interest
 * Innovations
 * Branding
@@ -47,53 +47,62 @@ I'm currently an enrolled student in Bachelor of Science (Information Technology
 * Business
 * Cyber Security
 * Finance
----
+
 ## 📌  Skill Summaries
 
 **Data Structures** </br>
   * Bubble Sort
 </br></br>
 
-### Algorithms Programming
-* Big O
-* Time Complexity Analysis
----
+**Algorithms Programming** </br>
+  * Big O
+  * Time Complexity Analysis
+</br></br>
 
-### Software Tools
-* AWS Cloud
-* Gitbook
-* Mysql Workbench
-* Docker
----
-### Testing Skills
-* Unit test
-### Software Testing Tools
-* Postman API
-* Selenium IDE
----
-### Operating Systems (User) 
-* CentOS 
-* Windows 10 
-* Mac os 
-* Ubuntu
----
-### SQL Online Courses
-* SQL Fundamentals by Dataquest.io
----
-### Cybersecurity Tools
-* Nmap
-* Fail2Ban
-* CodeQL
-### Cybersecurity Skills
-* ISO 27002
-* OWASP Top 10
----
+**Software Tools** </br>
+  * AWS Cloud
+  * Gitbook
+  * Mysql Workbench
+  * Docker
+  </br></br>
+
+**Testing Skills** </br>
+  * Unit test
+  </br></br>
+  
+**Software Testing Tools** </br>
+  * Postman API
+  * Selenium IDE
+  </br></br>
+  
+**Operating Systems (User)** </br>
+  * CentOS 
+  * Windows 10 
+  * Mac os 
+  * Ubuntu
+  </br></br>
+  
+**SQL Online Courses** </br>
+  * SQL Fundamentals by Dataquest.io
+  </br></br>
+
+**Cybersecurity Tools** </br>
+  * Nmap
+  * Fail2Ban
+  * CodeQL
+  </br></br>
+  
+**Cybersecurity Skills** </br>
+  * ISO 27002
+  * OWASP Top 10
+  </br></br>
+
 ### 📚 Read a book
-* Learning Computer Programming Using Java with 101 Examples
+  * Learning Computer Programming Using Java with 101 Examples
 
 ### 🚀 2020 goal
-* Learn Django The Web Framework
-* Learn ECOLE 42 BANGKOK
+  * Learn Django The Web Framework
+  * Learn ECOLE 42 BANGKOK
 
 ### 📫 Get in touch
 * Linkedin: Chatuphat Laosomboon
