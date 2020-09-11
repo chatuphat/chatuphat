@@ -1,7 +1,7 @@
-### Professional Summary
+### 👨 Professional Summary
 * I've been a project manager for more than 8 projects.
 
-### About Me
+### 💬 About Me
 A self-taught programmer and data analyst. Love to explore and learn new things via various universities.
 I'm currently an enrolled student in Bachelor of Science (Information Technology) at Burapha University.
 ### 👩🏼‍💻 Experience
@@ -13,13 +13,12 @@ I'm currently an enrolled student in Bachelor of Science (Information Technology
    * Position:  Teach Assistant  by  Burapha University
    * Task :  Teach students about Java Programming , Logic
 
-  
-### Certification Exams
+ ### 📝Certification Exams
 * Cloud Essentials by CompTIA
 * NSE1 Network Security Associate by Fortinet
 ### Transcript of Grades
 * Web-based Application Development Grade B by Burapha University
-### Introduce my project
+### :octocat: Introduce my project
 * Internet of Things (IoT)
 > https://github.com/chatuphat/Arduino-Blinker
 * Ansible
@@ -86,14 +85,14 @@ I'm currently an enrolled student in Bachelor of Science (Information Technology
 * ISO 27002
 * OWASP Top 10
 ---
-### Read a book
+### 📚 Read a book
 * Learning Computer Programming Using Java with 101 Examples
 
-### 2020 goal
+### 🚀 2020 goal
 * Learn Django The Web Framework
 * Learn ECOLE 42 BANGKOK
 
-### Get in touch
+### 📫 Get in touch
 * Linkedin: Chatuphat Laosomboon
 * LeetCode : https://leetcode.com/chatuphal/
 * Kaggle : https://www.kaggle.com/ambirth
