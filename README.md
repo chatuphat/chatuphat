@@ -103,7 +103,9 @@ I'm currently an enrolled student in Bachelor of Science (Information Technology
 ### 🚀 2020 goal
   * Learn Django The Web Framework
   * Learn ECOLE 42 BANGKOK
-
+  * Register in HackTheBox 2020
+  * Learn Google Career Certificates
+  
 ### 📫 Get in touch
 * Linkedin: Chatuphat Laosomboon
 * LeetCode : https://leetcode.com/chatuphal/
