@@ -90,6 +90,7 @@ I'm currently an enrolled student in Bachelor of Science (Information Technology
   * Nmap
   * Fail2Ban
   * CodeQL
+  * WPSCAN
   </br></br>
   
 **Cybersecurity Skills** </br>
