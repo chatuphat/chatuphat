@@ -92,6 +92,8 @@ I'm currently an enrolled student in Bachelor of Science (Information Technology
   * Fail2Ban
   * CodeQL
   * WPSCAN
+  * theHarvester
+  * Maltego
   </br></br>
   
 **Cybersecurity Skills** </br>
