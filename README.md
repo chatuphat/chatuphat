@@ -80,6 +80,7 @@ I'm currently an enrolled student in Bachelor of Science (Information Technology
   * Windows 10 
   * Mac os 
   * Ubuntu
+  * Kali Linux
   </br></br>
   
 **SQL Online Courses** </br>
@@ -96,6 +97,7 @@ I'm currently an enrolled student in Bachelor of Science (Information Technology
 **Cybersecurity Skills** </br>
   * ISO 27002
   * OWASP Top 10
+  * Google Hacking
   </br></br>
 
 ### 📚 Read a book
