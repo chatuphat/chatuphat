@@ -6,13 +6,6 @@ I'm currently an enrolled student in Bachelor of Science (Information Technology
 ### 📝Certification Exams
 * Cloud Essentials by CompTIA
 * NSE1 Network Security Associate by Fortinet
-
-
-
-  
-### 📫 Get in touch
-* Linkedin: Chatuphat Laosomboon
-* LeetCode : https://leetcode.com/chatuphal/
 * Cloud Essentials by CompTIA
 * NSE1 Network Security Associate by Fortinet
 * Applications & Use Cases Master Certification by Rapidminer.
@@ -22,6 +15,12 @@ I'm currently an enrolled student in Bachelor of Science (Information Technology
 * Applications & Use Cases Professional Certification by Rapidminer.
 * Data Engineering Professional Certification by Rapidminer.
 * Machine Learning Professional Certification by Rapidminer.
+
+  
+### 📫 Get in touch
+* Linkedin: Chatuphat Laosomboon
+* LeetCode : https://leetcode.com/chatuphal/
+
 <!--
 **chatuphat/chatuphat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
