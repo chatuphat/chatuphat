@@ -16,6 +16,12 @@ I'm currently an enrolled student in Bachelor of Science (Information Technology
 * Data Engineering Professional Certification by Rapidminer.
 * Machine Learning Professional Certification by Rapidminer.
 
+### 🍻 Join A Project
+* Thailand CyberSecurity for All 2020 Program By Cisco Networking Academy and King Mongkut’s Institute of Technology Ladkrabang - Bangkok,Thailand ( 1 June 2020 - 12 July 2020)
+*  Saphan Digital By Google Thailand (27 August 2020 - 21 December 2020)
+*  Data Analytics for Upskilling Program By Depa, AIT and SCB Academy (20 August 2020 - 15 February 2021 )
+*  User Experience Design By thai gov design (1 January 2021 - Present)
+*  CyberSecurity 6 By Mahidol University (9 January 2021 - Present)
   
 ### 📫 Get in touch
 * Linkedin: Chatuphat Laosomboon
