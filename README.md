@@ -3,5 +3,5 @@ I'm a new graduate from the Faculty of Technology, Information Technology. Burap
 
 ## Skills
 - **Languages:**
- - **Web-related:** JavaScript, HTML, CSS, SCSS, SQL
+  - **Web-related:** JavaScript, HTML, CSS, SCSS, SQL
 
