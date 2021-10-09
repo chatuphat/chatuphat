@@ -1,5 +1,5 @@
 # Hi! It's Chatuphat 
-**Contact |** [LinkedIn](https://www.linkedin.com/in/chatuphat-laosomboon-698747186/?originalSubdomain=th)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/chatuphat-laosomboon-698747186/?originalSubdomain=th)
 
 I'm a new graduate from the Faculty of Technology, Information Technology. Burapha University. 
 
