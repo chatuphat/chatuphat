@@ -13,7 +13,7 @@ I'm a new graduate from the Faculty of Technology, Information Technology. Burap
   
 ### Others
 - **CyberSecurity:** Google hacking, Website Penetration Testing 
-- - **Software Testing**: Postman, Selinium, Mocha 
+- **Software Testing:** Postman, Selinium, Mocha 
 
 ## My project
 - [Ansible](https://github.com/chatuphat/Ansible) It is an Automation Engine to create Master DNS , Time Server, Syslog. Web Server, PHP, NFS (Network File System), Slave DNS
