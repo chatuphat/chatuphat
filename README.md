@@ -8,6 +8,7 @@ I'm a new graduate from the Faculty of Technology, Information Technology. Burap
   - **Client-side:** Vue.js, 
   - **Sever-side:** Node.js, Laravel
   - **Cloud:** AWS, Microsoft Azure
+  - **IDE** Visual Studio Code, Visual Studio, Eclipse, CodeBlocks ,Jupyter Notebook , Android Studio
   
 ### Others
 - **CyberSecurity:** Google hacking, Website Penetration Testing 
