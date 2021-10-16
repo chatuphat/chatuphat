@@ -14,6 +14,9 @@ I'm a new graduate from the Faculty of Technology, Information Technology. Burap
 - **CyberSecurity:** Google hacking, Website Penetration Testing 
 - **Software Testing:** Postman, Selinium, Mocha 
 
+## Soft skill
+- Typing speet on English : 54 WPM
+
 ## My project
 - [Ansible](https://github.com/chatuphat/Ansible) It is an Automation Engine to create Master DNS , Time Server, Syslog. Web Server, PHP, NFS (Network File System), Slave DNS
 - [Design and Development of Information System for 2D and 3D Models Storing and Sharing](https://github.com/chatuphat/store2Dand3D) Developed with Laravel
