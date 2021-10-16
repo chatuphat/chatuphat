@@ -19,5 +19,5 @@ I'm a new graduate from the Faculty of Technology, Information Technology. Burap
 - [Google Hacking Penetration Test Report](https://github.com/chatuphat/Google-hacking-Lab) Sample Google Penetration Test Report
 
 ## Get in touch
-**Contact:** [LinkedIn](https://www.linkedin.com/in/chatuphat-laosomboon-698747186/?originalSubdomain=th)
+- [LinkedIn](https://www.linkedin.com/in/chatuphat-laosomboon-698747186/?originalSubdomain=th)
 
