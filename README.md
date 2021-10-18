@@ -24,7 +24,7 @@ I'm a new graduate from the Faculty of Technology, Information Technology. Burap
    - [Web Development Server](https://github.com/chatuphat/Web-Development-Server) Web Development Server **Built with:** Node.js + Chokidar
 
 - **My Project for the CyberSecurity**
-  - [Google Hacking Penetration Test Report](https://github.com/chatuphat/Google-hacking-Lab) Sample Google Penetration Test Report
+  - [Google Hacking Penetration Test Report](https://github.com/chatuphat/Google-hacking-Lab) Case Google Penetration Test Report
 
 - **My Project for the System Administrator**
    - [Ansible](https://github.com/chatuphat/Ansible) It is an Automation Engine to create Master DNS , Time Server, Syslog. Web Server, PHP, NFS (Network File System), Slave DNS **Built with:** Ansible
