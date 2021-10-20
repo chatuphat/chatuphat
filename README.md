@@ -29,6 +29,10 @@ I'm a new graduate from the Faculty of Technology, Information Technology. Burap
 - **My Project for the System Administrator**
    - [Ansible](https://github.com/chatuphat/Ansible) It is an Automation Engine to create Master DNS , Time Server, Syslog. Web Server, PHP, NFS (Network File System), Slave DNS **Built with:** Ansible
 
+
+## Programming Problems
+-  [C Programming](hhttps://github.com/chatuphat/C_programming_problems) C Programming Problems
+
 ## Get in touch
 - [LinkedIn](https://www.linkedin.com/in/chatuphat-laosomboon-698747186/?originalSubdomain=th)
 
