@@ -16,7 +16,7 @@ I'm a new graduate from the Faculty of Technology, Information Technology. Burap
 - **Software Testing:** Postman, Selinium, Mocha 
 
 ## Soft skill
-- Typing speet on English : 54 WPM
+- Typing speet on English : 60 WPM
 
 ## My Project
 - **My Project for the Web**
