@@ -31,7 +31,7 @@ I'm a new graduate from the Faculty of Technology, Information Technology. Burap
 
 
 ## Programming Problems
--  [C Programming](hhttps://github.com/chatuphat/C_programming_problems) C Programming Problems
+-  [C Programming](https://github.com/chatuphat/C_programming_problems) C Programming Problems
 
 ## Get in touch
 - [LinkedIn](https://www.linkedin.com/in/chatuphat-laosomboon-698747186/?originalSubdomain=th)
