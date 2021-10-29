@@ -14,7 +14,7 @@ I'm a new graduate from the Faculty of Technology, Information Technology. Burap
 ### Others
 - **CyberSecurity:** Google hacking, Website Penetration Testing 
 - **Software Testing:** Postman, Selinium, Mocha
-- **SEO Tools:** 
+- **SEO Tools:** Yoast SEO, 
 
 ## Soft skill
 - Typing speet on English : 61 WPM
