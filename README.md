@@ -13,10 +13,11 @@ I'm a new graduate from the Faculty of Technology, Information Technology. Burap
   
 ### Others
 - **CyberSecurity:** Google hacking, Website Penetration Testing 
-- **Software Testing:** Postman, Selinium, Mocha 
+- **Software Testing:** Postman, Selinium, Mocha
+- **SEO Tools:** 
 
 ## Soft skill
-- Typing speet on English : 60 WPM
+- Typing speet on English : 61 WPM
 
 ## My Project
 - **My Project for the Web**
