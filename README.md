@@ -18,7 +18,7 @@ I'm a new graduate from the Faculty of Technology, Information Technology. Burap
 - **SEO Tools:** Yoast SEO, Google structured data types, Google structured data test tool, Ubersuggest, XML Sitemap, On-Page SEO Checklist, noindex, mozbar from moz, redirect, Google Search Console
 
 ## Soft skill
-- Typing speet on English : 61 WPM
+- Typing speet on English : 63 WPM
 
 ## My Project
 - **My Project for the Web**
