@@ -1,40 +1,25 @@
-# Hi! It's Chatuphat 
-I'm a new graduate from the Faculty of Technology, Information Technology. Burapha University. 
+PREVIEW
+MARKDOWN
+COPY
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chatuphat
+=================================================================================================================================
 
-## Skills
-- **Languages:**
-  - **Web-related:** JavaScript, HTML, CSS, SCSS, SQL, PHP
-  - **Native programming:**  Python, Java, Shell Script,C,C++
-  - **Client-side:** Vue.js, 
-  - **Sever-side:** Node.js, Laravel
-  - **Cloud:** AWS, Microsoft Azure
-  - **IDE:** Visual Studio Code, Visual Studio, Eclipse, CodeBlocks ,Jupyter Notebook , Android Studio
-  - **Database Management Software:** MongoDB, phpMyAdmin
-  - **Others:** Docker
-  
-### Others
-- **CyberSecurity:** Google hacking, Website Penetration Testing 
-- **Software Testing:** Postman, Selinium, Mocha
-- **SEO Tools:** Yoast SEO, Google structured data types, Google structured data test tool, Ubersuggest, XML Sitemap, On-Page SEO Checklist, noindex, mozbar from moz, redirect, Google Search Console
+Programmer at Hospital | Python,Java
+------------------------------------
 
-## Soft skill
-- Typing speet on English : 63 WPM
+* 🧠  I'm learning Python
 
-## My Project
-- **My Project for the Web**
-   - [Design and Development of Information System for 2D and 3D Models Storing and Sharing](https://github.com/chatuphat/store2Dand3D) **Built with:** Laravel, Bootstrap
-   - [Web Development Server](https://github.com/chatuphat/Web-Development-Server) Web Development Server **Built with:** Node.js + Chokidar
- 
-- **My Project for the CyberSecurity**
-  - [Google Hacking Penetration Test Report](https://github.com/chatuphat/Google-hacking-Lab) Case Google Penetration Test Report
+### Skills
 
-- **My Project for the System Administrator**
-   - [Ansible](https://github.com/chatuphat/Ansible) It is an Automation Engine to create Master DNS , Time Server, Syslog. Web Server, PHP, NFS (Network File System), Slave DNS **Built with:** Ansible
-
-
-## Programming Problems
--  [C Programming](https://github.com/chatuphat/C_programming_problems)
-
-## Get in touch
-- [LinkedIn](https://www.linkedin.com/in/chatuphat-laosomboon-698747186/?originalSubdomain=th)
-
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+</p>
