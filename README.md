@@ -4,7 +4,7 @@ COPY
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chatuphat
 =================================================================================================================================
 
-Programmer at Hospital | Python,Java
+Programmer at Hospital | Python
 ------------------------------------
 
 * 🧠  I'm learning Python
